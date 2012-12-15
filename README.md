@@ -4,7 +4,21 @@ A simple program to simulate how to send email using provided server and port. T
 
 ##Screenshot
 
-![Screenshot](http://f.cl.ly/items/1a3E2f3L363t012y0j29/Screenshot%20from%202012-12-16%2004:08:56.png)
+### login screen
+
+![Screenshot](http://f.cl.ly/items/1D3I403i2f3Z0i1O1E17/imap1.png)
+
+### home screen
+
+![Screenshot](http://f.cl.ly/items/2p2Q3o3v0t2k1r1a2D0Q/imap2.png)
+
+### compose message modal
+
+![Screenshot](http://f.cl.ly/items/451F3R320j20032e2q3m/imap3.png)
+
+### success message
+
+![Screenshot](http://f.cl.ly/items/440p1M3r3x3p2z2V0i0g/imap4.png)
 
 ## About
 
